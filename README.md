@@ -2,6 +2,13 @@
 
 Teoría de la Computación — Universidad del Valle de Guatemala
 
+## Integrantes
+
+| Nombre | Carné |
+|---|---|
+| Esteban de la Peña | 24171 |
+| Martin Villatoro | 24033 |
+
 ## Video
 
 ▶️ [Ver video de ejecución](https://uvggt-my.sharepoint.com/:f:/r/personal/vil24033_uvg_edu_gt/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fvil24033%5Fuvg%5Fedu%5Fgt%2FDocuments%2F6o%2E%20Semestre%2FTDLC%2FVideo%20Lab%2012&share=cgr%2D7lE2sZq0QZ9HV0tb6w1XEgUCZvzneOCoSezvTXdR8P7khg)
